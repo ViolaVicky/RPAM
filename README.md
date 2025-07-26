@@ -1,2 +1,2 @@
-# Abstract
+# To Reviewers
 We have publicly released the weight files, which are sufficient to verify the effectiveness of our proposed method. However, as the paper is still under review and has not yet been accepted, We are cautious about disclosing the full implementation to avoid potential concerns regarding unpublished results. We plan to release the complete source code, including data preparation and training details, upon the paper’s acceptance to ensure reproducibility and support further research in this field.
